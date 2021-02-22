@@ -8,17 +8,17 @@
   font-size: 16px;
 }
 
-.text-align-1{
+.text-align-center{
   text-align: center;
 }
 
-.text-align-2{
+.text-align-skyblue{
   display: inline-block;
   padding: 10px;
   background-color: #a4b3e9;
 }
 
-.margin-2{
+.margin{
   font-size: 16px;
   padding: 10px;
   margin: 0 auto;
@@ -31,14 +31,14 @@
   display: table;
 }
 
-.display-table{
+.display-table-inline{
   text-align: center;
   display: table-cell;
   vertical-align: middle;
 }
 
 
-.display-table-1{
+.display-table-text{
   font-size: 16px;
   padding: 10px;
   background-color: #fff;
@@ -52,7 +52,7 @@
 }
 
 
-.flex-1{
+.flex-text{
   font-size: 16px;
   background-color: #fff;
   padding: 10px;
@@ -62,7 +62,7 @@
   position: relative;
 }
 
-.position{
+.position-text{
   position: absolute;
   background-color: #a4b3e9;
   transform: translate(-50%, -50%);
